@@ -1,3 +1,4 @@
+FORK OF: Zenpower3 https://github.com/Ta180m/zenpower3
 # Zenpower3
 Zenpower3 is a Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs, now with Zen 3 support!
 
