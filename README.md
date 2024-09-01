@@ -12,7 +12,8 @@ You can install this module via DKMS.
 ```sh
 sudo apt install dkms git build-essential linux-headers-$(uname -r)
 cd ~
-git clone https://github.com/Ta180m/zenpower3.git
+#git clone https://github.com/Ta180m/zenpower3.git #old version n/a
+git clone https://github.com/Donzii/zenpower3.git
 cd zenpower3
 sudo make dkms-install
 ```
